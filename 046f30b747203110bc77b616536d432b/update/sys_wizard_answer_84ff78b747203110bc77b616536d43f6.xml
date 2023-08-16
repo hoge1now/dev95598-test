@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Test</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">953a4739e821211076da10591ad28742</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 01:04:29</sys_created_on>
+        <sys_id>84ff78b747203110bc77b616536d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Test" source="x_801890_test">046f30b747203110bc77b616536d432b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">046f30b747203110bc77b616536d432b</sys_scope>
+        <sys_update_name>sys_wizard_answer_84ff78b747203110bc77b616536d43f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 01:04:29</sys_updated_on>
+        <table/>
+        <target_url>x_801890_test_test.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

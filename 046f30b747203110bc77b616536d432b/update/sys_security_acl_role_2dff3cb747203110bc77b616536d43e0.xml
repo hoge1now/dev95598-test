@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 01:04:36</sys_created_on>
+        <sys_id>2dff3cb747203110bc77b616536d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_801890_test_test.x_801890_test.admin</sys_name>
+        <sys_package display_value="Test" source="x_801890_test">046f30b747203110bc77b616536d432b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">046f30b747203110bc77b616536d432b</sys_scope>
+        <sys_security_acl display_value="x_801890_test_test">6dff3cb747203110bc77b616536d43d1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2dff3cb747203110bc77b616536d43e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 01:04:36</sys_updated_on>
+        <sys_user_role display_value="x_801890_test.admin" name="x_801890_test.admin">886f30b747203110bc77b616536d4330</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
